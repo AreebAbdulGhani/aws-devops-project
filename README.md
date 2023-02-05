@@ -1,5 +1,5 @@
 # aws-devops-project
-CI/CD for AWS DevOps with AWS CodeCommit and CodeBuild work
+CI/CD for AWS DevOps with AWS CodeCommit and CodeBuild
 
 I have created Continuous integration for now, next I'm going to create Continuous deployment, Hence CI/CD with CodePipeline with AWS.
 
